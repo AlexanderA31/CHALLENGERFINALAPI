@@ -1,0 +1,10 @@
+Hallazgos y Conclusiones:
+Durante la evaluación de las funcionalidades de creación de usuario y inicio de sesión, se observaron 
+resultados consistentes y confiables en diferentes escenarios. Los hallazgos indican que tanto 
+la creación de usuarios con credenciales únicas como la gestión de usuarios existentes están implementadas
+ de manera efectiva, demostrando un comportamiento esperado y sin errores notables. Asimismo, 
+la capacidad de iniciar sesión con credenciales válidas se ejecuta correctamente, permitiendo a 
+los usuarios acceder sin problemas. En caso de credenciales inválidas, el sistema responde 
+adecuadamente con mensajes de error claros, asegurando una comunicación efectiva con el usuario.
+La validación de status codes y la gestión de mensajes de error específicos reflejan una atención 
+meticulosa hacia la robustez y seguridad de la API, validando su funcionamiento en escenarios diversos de prueba.
