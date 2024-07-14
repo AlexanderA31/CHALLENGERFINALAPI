@@ -45,7 +45,7 @@ Una vez importado el proyecto, Maven descargará automáticamente todas las depe
 ### Ejecución del Proyecto 
 
 ### Lo ejecutamos en la direccion 
-```bash
+
     C:\Users\ufred\IdeaProjects\ApiBlaze\src\test\resources\blazeApi.feature
 
 ![imagen](https://github.com/user-attachments/assets/cb16cec4-7147-4e1d-b159-d192ed121a65)
